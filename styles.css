@@ -142,10 +142,10 @@ header {
 
 }
 
-@media screen and (maxwidth: 330px){
-    .container-left{
+@media screen and (maxwidth: 330px) {
+    .container-left {
         height: 70%;
     }
 }
-    
+
 }
