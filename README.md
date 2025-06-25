@@ -7,4 +7,5 @@
 <br>
 - HTML
 - CSS
+<br>
 <img src="https://github.com/LindomarSodreDefanti/Primeiro-projeto-responsivo-Easy-Shopping/blob/main/laptop%20and%20cellphone.PNG?raw=true">
